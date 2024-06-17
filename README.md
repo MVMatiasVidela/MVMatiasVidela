@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Matias!</h1>
 <h3 align="center">Me apasiona la programación</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Mis tecnologias son: **HTML, CSS, JavaScript, Typescript, React, Next.js Tailwind CSS**
 
-- 📫 How to reach me **matias.damian.vi@gmail.com**
+- 📫 Email: **matias.damian.vi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
